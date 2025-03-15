@@ -40,7 +40,7 @@ To install and run the application, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Mixed_Messages.git
+    git clone  https://github.com/bhavesh16281/Mixed_Messages.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -66,10 +66,4 @@ If you would like to contribute to this project, please follow these steps:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
